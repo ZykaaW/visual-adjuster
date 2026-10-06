@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "dev.visualadjuster.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"ShieldRenderMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

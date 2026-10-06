@@ -1,0 +1,14 @@
+{
+  "visualadjuster.title": "Visual Adjuster",
+  "visualadjuster.category.shield": "Shield",
+  "visualadjuster.setting.mode": "Shield mode",
+  "visualadjuster.mode.side": "Side shield",
+  "visualadjuster.mode.low": "Low shield",
+  "visualadjuster.mode.vanilla": "Vanilla",
+  "visualadjuster.mode.texture_pack": "Texture pack",
+  "visualadjuster.setting.height": "Shield height",
+  "visualadjuster.setting.size": "Shield size",
+  "visualadjuster.setting.width": "Shield width",
+  "visualadjuster.setting.depth": "Shield depth",
+  "visualadjuster.setting.angle": "Shield angle"
+}

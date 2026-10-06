@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "visualadjuster",
+	"version": "${version}",
+	"name": "Visual Adjuster",
+	"description": "Adjust the appearance and placement of your first-person shield.",
+	"authors": ["ZykaaW"],
+	"icon": "assets/visualadjuster/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"dev.visualadjuster.VisualAdjusterClient"
+		],
+		"modmenu": [
+			"dev.visualadjuster.config.VisualAdjusterModMenuIntegration"
+		]
+	},
+	"mixins": [
+		"visualadjuster.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.0",
+		"fabric-api": "*",
+		"minecraft": "1.21.11",
+		"java": ">=21",
+		"cloth-config": "*"
+	},
+	"suggests": {
+		"modmenu": "*"
+	}
+}

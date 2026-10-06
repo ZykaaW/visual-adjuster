@@ -1,0 +1,20 @@
+# Local workspace metadata
+.freebuff/
+
+# Gradle
+.gradle/
+build/
+
+# Loom / IDE
+run/
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+bin/
+out/
+remappedSrc/
